@@ -1,0 +1,30 @@
+header {
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  height: 80vh;
+}
+header h1 {
+  font-family: "Pacifico", cursive;
+}
+header p {
+  font-family: "Itim", cursive;
+}
+
+.section3 h1 {
+  font-family: "Itim", cursive;
+}
+.section3 p {
+  font-family: "Itim", cursive;
+}
+
+:root .gray {
+  color: #717171;
+}
+:root .bg {
+  background-color: #f4f4f4;
+}
+:root .gray2 {
+  color: #444444;
+}
+
+/*# sourceMappingURL=style.css.map */
